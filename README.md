@@ -1,16 +1,24 @@
 # flappy_bird_clone
 
-A new Flutter project.
+Clone do jogo Flappy Bird. Projeto desenvolvido durante estudo, com o objetivo 
+de aprender novas técnicas e conceitos de desenvolvimento. 
 
-## Getting Started
+Creditos ao canal [HeyFlutter․com](https://www.youtube.com/watch?v=zcs8qRBRz7w)
 
-This project is a starting point for a Flutter application.
+## Tecnologias
 
-A few resources to get you started if this is your first Flutter project:
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- [Flame](https://flame-engine.org/)
+   
+## Executar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Para executar o projeto, você precisa ter o Flutter instalado em sua máquina.
+Após a instalação, basta executar o comando abaixo:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
+```
+
+
+
